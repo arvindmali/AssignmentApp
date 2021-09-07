@@ -1,0 +1,50 @@
+[
+        {
+            "id": 1,
+            "proName": "Fortune Sunlite Refined Sunflower Oil",
+            "proImage": "https://images.unsplash.com/photo-1579370806239-bbaf91e1ee14?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "mrp": "100.52",
+            "dmart": "90.52",
+            "save": "10.00"
+        },
+        {
+            "id": 2,
+            "proName": "Premia Green Elaichi Economy",
+            "proImage": "https://images.unsplash.com/photo-1566454825481-4e48f80aa4d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "mrp": "104.00",
+            "dmart": "90.00",
+            "save": "14.00"
+        },
+        {
+            "id": 3,
+            "proName": "Turmeric Powder",
+            "proImage": "https://images.unsplash.com/photo-1571341209659-48786057b9c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+            "mrp": "50.25",
+            "dmart": "40.10",
+            "save": "10.15"
+        },
+        {
+            "id": 4,
+            "proName": "Sugar",
+            "proImage": "https://images.unsplash.com/photo-1566062245904-58008d5bc2ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=375&q=80",
+            "mrp": "40.10",
+            "dmart": "38.52",
+            "save": "1.58"
+        },
+        {
+            "id": 5,
+            "proName": "Tea/Coffee",
+            "proImage": "https://images.unsplash.com/photo-1614907634002-65ac4cb74acb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80",
+            "mrp": "50.10",
+            "dmart": "38.52",
+            "save": "11.58"
+        },
+        {
+            "id": 6,
+            "proName": "Shampoo – As needed",
+            "proImage": "https://images.unsplash.com/photo-1614907634002-65ac4cb74acb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1233&q=80",
+            "mrp": "50.10",
+            "dmart": "38.52",
+            "save": "11.58"
+        }
+    ]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+
+    <string name="rs">\u20B9</string>
+
+    <string-array name="pck">
+        <item>50 gm</item>
+        <item>100 gm</item>
+        <item>500 gm</item>
+        <item>1L</item>
+        <item>5L</item>
+        <item>10L</item>
+    </string-array>
+</resources>

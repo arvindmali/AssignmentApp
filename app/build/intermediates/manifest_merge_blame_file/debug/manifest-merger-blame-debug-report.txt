@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.testdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:7:5-30:19
+14        android:name="com.example.testdemo.BaseApplication"
+14-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:14:9-40
+15        android:allowBackup="true"
+15-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.6.0] /home/user/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:10:9-41
+20        android:largeHeap="true"
+20-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:13:9-33
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:12:9-35
+23        android:theme="@style/Theme.TestDemo" >
+23-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:15:9-46
+24        <activity
+24-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:16:9-25:20
+25            android:name="com.example.testdemo.MainActivity"
+25-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:17:13-41
+26            android:exported="true"
+26-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:19:13-36
+27            android:label="Assignments" >
+27-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:18:13-40
+28            <intent-filter>
+28-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:20:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:21:17-69
+29-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:23:17-77
+31-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.example.testdemo.activity.AssignmentOneActivity" />
+34-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:27:9-67
+34-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:27:19-65
+35        <activity android:name="com.example.testdemo.activity.AssignmentTwoActivity" />
+35-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:28:9-67
+35-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:28:19-65
+36        <activity android:name="com.example.testdemo.activity.AssignmentThreeActivity" />
+36-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:29:9-69
+36-->/home/user/Documents/ArvindCloneProject/TestDemo/app/src/main/AndroidManifest.xml:29:19-67
+37    </application>
+38
+39</manifest>
